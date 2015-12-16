@@ -1,4 +1,5 @@
 //this is the first go program in centos
+// reverse a string 
 package main
 
 func main(){
